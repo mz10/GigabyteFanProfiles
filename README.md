@@ -5,7 +5,6 @@ It replaces the program DAC-UP from Gigabyte and switching of USB works in CMD.
 
 [Download](https://github.com/mz10/GigabyteFanProfiles/blob/master/GBSmartFan/bin/Release/GBSmartFan.exe?raw=true)
 
-## Requirements:
 This is tested on X470 AORUS GAMING 7 WIFI, but it may work on others Gigabyte mainboards
 
 ## Install:
